@@ -5,6 +5,6 @@ RobLocHmm: Robot localization in 2D environment using Hidden Markov Model.
 
 TS_BB_BFS: Travelling Salesman Problem solved with Branch and Bound technique.
 
-ImageCaptionGenerator: Image caption generator using hybrid Neural Networl model with CNN and LSTM subnetworks for image and language processing respectively.
+ImageCaptionGenerator: Implemented a hybrid Neural Network model with CNN and LSTM subnetworks for image and language processing respectively for describing images.
 
 AStar_8Puzzle: 8 puzzle problem solved using AStar algorithm.
