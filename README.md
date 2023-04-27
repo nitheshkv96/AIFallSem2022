@@ -1,4 +1,4 @@
-# AIFallSem2022
+# AI Fall 2022
 
 Hello!!
 
