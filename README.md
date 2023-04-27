@@ -1,10 +1,13 @@
 # AIFallSem2022
-Personal Projects:
 
-RobLocHmm: Robot localization in 2D environment using Hidden Markov Model.
+Hello!!
 
-TS_BB_BFS: Travelling Salesman Problem solved with Branch and Bound technique.
+These are some of the projects I developed and executed as part of Academic coursework Fal1 2022
 
-ImageCaptionGenerator: Implemented a hybrid Neural Network model with CNN and LSTM subnetworks for image and language processing respectively for describing images.
+1. RobLocHmm: Robot localization in 2D environment using Hidden Markov Model.
 
-AStar_8Puzzle: 8 puzzle problem solved using AStar algorithm.
+2. TS_BB_BFS: Travelling Salesman Problem solved with Branch and Bound technique.
+
+3. ImageCaptionGenerator: Implemented a hybrid Neural Network model with CNN and LSTM subnetworks for image and language processing respectively for describing images.
+
+4. AStar_8Puzzle: 8 puzzle problem solved using AStar algorithm.
